@@ -1,6 +1,9 @@
 # Wizard of Legend: LegendAPI Modding Tutorial
 This is an example mod that displays how to add a custom robe and relic. For the sake of the tutorial, neither will be too complex; this is more about showing off the actual addition of the items than the coding of them. In the future, I will update this with more in-depth explanations of adding content.
 
+LegendAPI, the system used to add relics and robes, was made by RandomlyAwesome. All credit to them for it.
+The boilerplate folder setup was made by Timesweeper. All credit to them for initial project setup.
+
 ## Overview
 We will do the following:
 > Add one robe
