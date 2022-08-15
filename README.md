@@ -4,6 +4,8 @@ This is an example mod that displays how to add a custom robe and relic. For the
 LegendAPI, the system used to add relics and robes, was made by RandomlyAwesome. All credit to them for it.
 The boilerplate folder setup was made by Timesweeper. All credit to them for initial project setup.
 
+**You will need BepInEx, the HookGenPatcher (found in the Wizard of Legend discord server), and LegendAPI 1.2.0 or later for this tutorial. Please follow instructions provided with each of these for installation.**
+
 ## Overview
 We will do the following:
 > Add one robe
