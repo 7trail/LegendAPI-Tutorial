@@ -15,7 +15,7 @@ namespace WOLModTemplate {
             {
                 new OutfitModStat(OutfitModStat.OutfitModType.Health,100,0,0,false),
                 new OutfitModStat(OutfitModStat.OutfitModType.Speed,0,0.2f,0,false)
-            }, false, false);
+            }, true, false);
 
             Outfits.Register(outfit);
 
